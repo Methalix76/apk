@@ -1,6 +1,6 @@
 # apk
-Repositorio apk progamacion de app mobile
+Repositorio apk progamación de app mobile
 
-Presentacion moveup.pptx
+Presentación moveup.pptx
 
-codigo final comprimido en 3 volumenes
+Codigo final comprimido en 3 volumenes
